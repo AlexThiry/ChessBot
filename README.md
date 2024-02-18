@@ -1,3 +1,3 @@
-###CHESS BOT###
+# CHESS BOT
 
 Basic chess bot in C++
